@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(255, 255, 255);
+}
+.img-fluid:hover {
+  opacity: 0.5;
+  transition: 1000ms;
+}
+.container-fluid {
+  text-align: center;
+}
+
+.border{
+ border-bottom: 5px black;
+ border-top:5px black;
+}
